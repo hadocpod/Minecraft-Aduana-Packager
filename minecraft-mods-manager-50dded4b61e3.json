@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "minecraft-mods-manager",
+  "private_key_id": "50dded4b61e3c57b487d3657268a04b9233a84a7",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDc8faH26BKkKDE\n5sE+Mm3iKZB3ZBOhhb2REIgz6VotP9up+sq6HSyj+Yg9BO8kbDCIZ2snMIGCfI+j\n0m9yMwhSVNdcMT4lzQ1xwljuQheyvwAM4LzAuizDbDU/FD1M+WXbRFs7WofFHfNP\nC9v+EkGQTW762CwTUo0pk/zV4x6/KtdxWZ7zMf62CTEXsUG7RrCjq2FIVwDBGlNX\nq7Cj3vjAJ8XuHBZOMoqu0JYeiM3M0XdbMA/f7tWKh8NrdORKFIdvQU5lLlB8+EzJ\nzC7EraoOx8sojuFdt7ZtN+7OpGLgn0vlSS04bNQSjJHsq5qQfEjWh6RhvGio7qq0\nDsWt2J6hAgMBAAECggEALweaEGUhg32xmvf7Xj/hv+hVBfTZcOJE7aH1PAeJ2GPl\nYBMwH9mh7O1qoIJyXPBijEZnOppKlvnooVhjvI08UjoY9VjN/8HcAMD7qQuMe9HI\nMvWLeAKpEJfx5ZFrUv0rPzcXrFSi3cR4S/UcSMKeDhdNbjuhdiN2RMlpYiXMH6ib\nfQumHQxjQb38r43NK3Re8QI4Ew45r0RUZkqBxnIbrIoJtGdymFexgJuBTIXk3jyk\nJsSO3kJ+VnXkKngrtutWJDh2ByIj9lamC91v5x5r6jWTgc6W7jxcTOgcKgTPpH/F\n1bPuV+EJMRDPsYhA+q7p1we1wxiYtd3B+OxqgD/OoQKBgQD6ec39Re3Hth7FVXWP\nlfvJuBg0uk4SaS1cyPEraM16VTiVY+gTvJ3Xw9qvi7vOedLAbixDyJ07+dZwcvKl\nIi4FolXTnbi6p7nPO6vxlqUA0LEz0fMbIjFqkdCCIW8gqlc/dOwIpcvztjH5X42D\natSECmVQLLH4kWvNvsFxDrptTQKBgQDh0W1ndC9TVOVZH01DWr1oFnV2OuXwoNpv\nOVeIVT1HGFvl4PvDcbfArPz8aTHnWuUgMxEgfen6S6arO9Cjz5MsQUrdZ/41aB3I\nDUXdAlCwbLWzpbNcSz8MAhS20DRPgtEgV1+sq03Mih8ygw/gjaKxto+wGHFkVqro\nlJV2J8rcpQKBgQC/DYuu5dkSXXspIB90731IB1EHXxhP+MPuIyO57c3Vww1O/g62\nh0eKncy/3ADb5JZ5y0+eQHaWmeIUkck9Zk3eZE29BXAzh942ERj9ROAFOCoCEeGy\nT6mL1T9LEz+VlfjI4WFs0zI3akDCKz1hAWqqcNeIiR8TL7EgFaGtoANZfQKBgQDS\nki+qoLTgx/F1wbKSdDLatNajgRiZ4eTOgnIVNycE/Ln1Cm66OXhXuvfNh2p5ilDO\nTdBStBdSxuiMFCLiHdXnFptxCmAJ/SSIP5g+FsKXQUfOVV2DWsdXszkNn+innBzW\nQ6N7p+HMMaAVwhE0G97ySIKEesaCAi8s4iDdJQ4N4QKBgAIdBXanw5ncYeXHkiSN\nWo9d1lG7wCoRXXFoJY757T6ONlV58eDfLLt7nJUcY5aENLqppJcsBgrWXByS39Gm\nCbEdERFF5dVJ/CzMS4P/lDZ/LUvMB0rXnhb3KiZWKYTkQt9lFzo0K0cwb3obx9tu\nhhzwoV80pGjASaBWWySEDUIQ\n-----END PRIVATE KEY-----\n",
+  "client_email": "minecraftmodupdater@minecraft-mods-manager.iam.gserviceaccount.com",
+  "client_id": "115306463324906863094",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/minecraftmodupdater%40minecraft-mods-manager.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

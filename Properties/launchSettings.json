@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "AppMinecraftModManager (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "AppMinecraftModManager (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
